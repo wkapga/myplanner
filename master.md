@@ -24,7 +24,7 @@
 
 ---
 
-## Modul: Analysis 2
+## Modul: Mathe 1 Vorlesung
 
 - Prüfung: 2026-06-25
 - Priorität: hoch
